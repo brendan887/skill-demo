@@ -3,6 +3,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void isMultipleOfSeven() {
-        assertTrue(SkillDemo.multipleOfSeven(13));
+        assertTrue(SkillDemo.multipleOfSeven(14));
     }
 }
